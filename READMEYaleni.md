@@ -23,3 +23,5 @@ Se analiza el archivo result.csv
 * Se revisan si existen valores nulo, tipo de datos
 * Se modifica el campo fecha
 * Se crean dos campos nuevos como PERIODO_ANUAL Y PERIODO:MENSUAL
+* Se normaliza el archivo, se realizan las consultas requerida
+* Se exporta el archivo en formato xlsx
