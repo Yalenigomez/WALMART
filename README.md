@@ -1,2 +1,0 @@
-# WALMART
-Desafio Walmart
