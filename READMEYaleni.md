@@ -18,4 +18,8 @@ Los 10 peores juegos para cada consola / empresa.
 Los 10 mejores juegos para todas las consolas.
 Los 10 peores juegos para todas las consolas. Los datos están en la carpeta datos / en la raíz. El informe puede exponerse de la forma que desee, pero recuerde que se trata de un trabajo ETL.
 
-
+Limpieza de archivos
+Se analiza el archivo result.csv
+* Se revisan si existen valores nulo, tipo de datos
+* Se modifica el campo fecha
+* Se crean dos campos nuevos como PERIODO_ANUAL Y PERIODO:MENSUAL
